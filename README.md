@@ -15,7 +15,7 @@ A **Machine Learning Web App** that predicts the **selling price of used bikes**
 ---
 ##  Tech Stack  
 - **Python**  
-- **pandas**, **numpy**, **scikit-learn**  
+- **pandas**, **numpy**, 
 - **Streamlit** (for user interface)  
 ---
 ## 🌐 Connect with Me  
